@@ -457,7 +457,7 @@ async def special_bonus(call: types.CallbackQuery):
     text = (
         "Hello fam 👋 Good news from the 99POW Family! 💖\n\n"
         "Just download the 99POW App and make a deposit of ₱200, and you'll receive an extra bonus code:\n\n"
-        "QV0FOTDV\n\n"
+        "QRV0H3JAKSGV1B5\n\n"
         "👉 Don't miss this chance  🚀— download now, deposit today, and claim your exclusive reward!"
     )
     kb = InlineKeyboardMarkup(inline_keyboard=[
